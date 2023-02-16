@@ -7,7 +7,7 @@
 
 1. Initialize a **Google Colab Jupyter Notebook** Account 
 
-> [HOWTO_Setup-Colab-Jupyter-Notebook](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/main/LB0-Kickoff/HOWTO_Setup-JupyterNotebook.md)  
+> [HOWTO_Setup-Colab-Jupyter-Notebook](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/main/LB00-Kickoff/HOWTO_Setup-JupyterNotebook.md)  
 
 </br>
 2. Setup a personal R/Rstudio Cloud Account 
