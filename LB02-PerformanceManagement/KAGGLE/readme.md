@@ -31,3 +31,5 @@ Practice for real-world application
 + [Creating Your Own Notebooks](https://www.kaggle.com/code/alexisbcook/creating-your-own-notebooks). 
 How to put your new skills to use for your next personal or work project
 <br>
+
+![image](https://user-images.githubusercontent.com/52699611/221137109-a4246098-cf9e-4a26-8de5-f439f604acaa.png)
