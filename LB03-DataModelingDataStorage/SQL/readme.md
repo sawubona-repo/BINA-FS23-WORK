@@ -7,7 +7,7 @@
 --- 
 ### [SQLite Sample Database & Tutorial](https://www.sqlitetutorial.net/sqlite-sample-database/)
 
-Introduction to chinook SQLite sample database. We provide you with the SQLite sample database named chinook. The chinook sample database is a good database for practicing with SQL, especially SQLite.
+Introduction to chinook [SQLite](https://www.sqlite.org/index.html) sample database. We provide you with the SQLite sample database named chinook. The chinook sample database is a good database for practicing with SQL, especially SQLite.
 
 ![image](https://user-images.githubusercontent.com/52699611/158073902-ac142af3-ca85-4fe8-81f5-cef62ca1094a.png)
 
@@ -44,4 +44,12 @@ SQL Bolt is a site that teaches SQL as well as including several exercises on ea
 Oracle Live SQL is a tool created by Oracle that lets you write and run SQL code against an online Oracle database. You can write code to create and populate tables and select data from them. It’s a handy way to practice Oracle-specific SQL online. It also includes some helpful scripts as resources in the code library section and several tutorials on how to improve your SQL. See also [Oracle Live SQL - The Complete Guide](https://www.databasestar.com/oracle-live-sql/) from Databasestar  
 
 + [dbdiagram.io](https://dbdiagram.io/home?utm_source=dbdiagram) - Draw Entity-Relationship Diagrams, Painlessly  
-A free, simple tool to draw ER diagrams by just writing code. Designed for developers and data analysts.
+A free, simple tool to draw ER diagrams by just writing code. Designed for developers and data analysts.  
+
+---  
+### SQLite Online Browser
+
+
++ [SQLite Browser](https://extendsclass.com/sqlite-browser.html) -  This SQLite browser allows you to create, open, query, update, export SQL to CSV, save and share a SQLite database.This SQLite viewer online runs directly in your browser.  
++ [SQLIte Viewer App](https://sqliteviewer.app/#/) - SQLite Viewer Web is a free, web-based SQLite Explorer, inspired by DB Browser for SQLite and Airtable.  
++ [DB Browser for SQLite](https://sqlitebrowser.org/) - DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite. DB4S is for users and developers who want to create, search, and edit databases. DB4S uses a familiar spreadsheet-like interface, and complicated SQL commands do not have to be learned. 
