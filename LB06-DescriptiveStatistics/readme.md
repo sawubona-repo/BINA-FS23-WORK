@@ -1,5 +1,5 @@
 # LB06 - Descriptive Statistics README
-###### Last update: 8/2/22 dbe
+###### Last update: 22/3/23 dbe - minor corrections, R/Studio is now Posit
 </br>
 
 ![Folie5](https://user-images.githubusercontent.com/52699611/160862506-33f6b3e0-e2f8-4cd8-ac4d-3e23ed960faa.PNG)
@@ -20,19 +20,23 @@ In a nutshell: *Descriptive statistics are used to describe the basic features o
 </br>
 
 ## B) Tools and Examples
-![image](https://user-images.githubusercontent.com/52699611/159880451-a488c1f2-0ff7-4f4a-b144-a86f3f792c49.png)
 
-**RStudio** ist eine vom Unternehmen [RStudio, Inc.](https://www.rstudio.com/) angebotene, integrierte Entwicklungsumgebung und grafische Benutzeroberfläche für die **Statistik-Programmiersprache R**. RStudio ist sowohl als lokale [Desktop-Version](https://www.rstudio.com/products/rstudio/) als auch als [Cloud-Version](https://rstudio.cloud/) mit gleichem Layout verfügbar. Die Umgebung teilt sich in vier rechteckige Bereiche, in denen einer für *Skripte* genutzt wird, ein anderer als *Kommandozeile mit Output des Programmiercodes* und ein weiterer für die *Anzeige von Objekten in der Arbeitsumgebung*. In einem vierten Bereich lassen sich mit Reitern *grafischer Output, eine Paketverwaltung, das Ordnerverzeichnis und mehr* anzeigen. Auf die Cloudversion wird über einen Webbrowser zugegriffen.  
+![image](https://user-images.githubusercontent.com/52699611/159883097-4808b698-1d61-428c-8481-40a05ddc19e4.png)  
+
+The built-in Python **statistics** library has a relatively small number of the most important statistics functions. The [official documentation](https://docs.python.org/3/library/statistics.html) is a valuable resource to find the details. If you’re limited to pure Python, then the Python statistics library might be the right choice.
+
+A good place to start learning about **NumPy** is the official [User Guide](https://docs.scipy.org/doc/numpy/user/index.html), especially the quickstart and basics sections. Probably, you might want to check out the [statistics](https://docs.scipy.org/doc/numpy/reference/routines.statistics.html) section and the official **scipy.stats** [reference](https://docs.scipy.org/doc/scipy/reference/stats.html) as well.
+
+* Descriptive Statistics mit Python und Pandas bei [Tutorialspoint](https://www.tutorialspoint.com/python_pandas/python_pandas_descriptive_statistics.htm)  
+* Video Tutorial zu [Python, Pandas und Statistik](https://youtu.be/lttSd1sBzq0)  
+* [Example Python/Jupyter Script](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/f286f27f82ea511995fa7fcc5685196829e6f6a5/LB06-DescriptiveStatistics/Python/Python-JUPYTER-Descriptive-Statistics.ipynb) mit Beispielen zur beschreibenden Statistik  
+
+---  
+
+![image](https://user-images.githubusercontent.com/52699611/227187607-1858d62e-29a7-4683-b90b-c3955d19c6de.png)
+
+**RStudio** ist eine vom Unternehmen [RStudio, Inc.](https://www.rstudio.com/) (neuer Name **Posit.co**) angebotene, integrierte Entwicklungsumgebung und grafische Benutzeroberfläche für die **Statistik-Programmiersprache R**. RStudio ist sowohl als lokale [Desktop-Version](https://www.rstudio.com/products/rstudio/) als auch als [Cloud-Version](https://posit.cloud/) mit gleichem Layout verfügbar.  
 
 * Beschreibende Statistik mit Hilfe von R/RStudio R - [A Handbook of Statistical Analyses with R](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB06-DescriptiveStatistics/A%20Handbook%20of%20Statistical%20Analyses%20Using%20R.pdf)  
 * Video Tutorial zu [Deskriptive Statistik in R berechnen und interpretieren](https://youtu.be/2oJxL-ImcOM) 
 * [Example R Script](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB06-DescriptiveStatistics/R/R-Code_Descriptive-STATISTICS_IRIS_v3.R) mit Beispielen zur beschreibenden Statistik am IRIS Datensatz  
-
-
-
-![image](https://user-images.githubusercontent.com/52699611/159883097-4808b698-1d61-428c-8481-40a05ddc19e4.png)
-
-* Descriptive Statistics mit Python und Pandas bei [Tutorialspoint](https://www.tutorialspoint.com/python_pandas/python_pandas_descriptive_statistics.htm)  
-* Video Tutorial zu [Python, Pandas und Statistik](https://youtu.be/lttSd1sBzq0)  
-* [Example Python/Jupyter Script](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/f286f27f82ea511995fa7fcc5685196829e6f6a5/LB06-DescriptiveStatistics/Python/Python-JUPYTER-Descriptive-Statistics.ipynb) mit Beispielen zur beschreibenden Statistik
-
