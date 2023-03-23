@@ -40,5 +40,6 @@ A good place to start learning about **NumPy** is the official [User Guide](http
 **RStudio** ist eine vom Unternehmen [RStudio, Inc.](https://www.rstudio.com/) (neuer Name **Posit.co**) angebotene, integrierte Entwicklungsumgebung und grafische Benutzeroberfläche für die **Statistik-Programmiersprache R**. RStudio ist sowohl als lokale [Desktop-Version](https://www.rstudio.com/products/rstudio/) als auch als [Cloud-Version](https://posit.cloud/) mit gleichem Layout verfügbar.  
 
 * Beschreibende Statistik mit Hilfe von R/RStudio R - [A Handbook of Statistical Analyses with R](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB06-DescriptiveStatistics/A%20Handbook%20of%20Statistical%20Analyses%20Using%20R.pdf)  
-* Video Tutorial zu [Deskriptive Statistik in R berechnen und interpretieren](https://youtu.be/2oJxL-ImcOM) 
-* [Example R Script](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/main/LB06-DescriptiveStatistics/R/R-Code_Descriptive-STATISTICS_IRIS_v3.R) mit Beispielen zur beschreibenden Statistik am IRIS Datensatz  
+* Video Tutorial zu [Deskriptive Statistik in R berechnen und interpretieren](https://youtu.be/2oJxL-ImcOM)  
+
+* **[Example R Script](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/main/LB06-DescriptiveStatistics/R/R-Code_Descriptive-STATISTICS_IRIS_v3.R)** mit Beispielen zur beschreibenden Statistik am [IRIS Blumen Datensatz](https://archive.ics.uci.edu/ml/datasets/iris)  
