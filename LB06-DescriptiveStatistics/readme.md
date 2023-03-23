@@ -29,7 +29,7 @@ A good place to start learning about **NumPy** is the official [User Guide](http
 
 * Descriptive Statistics mit Python und Pandas bei [Tutorialspoint](https://www.tutorialspoint.com/python_pandas/python_pandas_descriptive_statistics.htm)  
 * Video Tutorial zu [Python, Pandas und Statistik](https://youtu.be/lttSd1sBzq0)  
-* [Example Python/Jupyter Script](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/main/LB06-DescriptiveStatistics/Python/Python-JUPYTER-Descriptive-Statistics.ipynb) mit Beispielen zur beschreibenden Statistik  
+* **[Example Python/Jupyter Script](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/main/LB06-DescriptiveStatistics/Python/Python-JUPYTER-Descriptive-Statistics.ipynb)** mit vielen Beispielen zur beschreibender Statistik  
 
 
 
@@ -42,4 +42,4 @@ A good place to start learning about **NumPy** is the official [User Guide](http
 * Beschreibende Statistik mit Hilfe von R/RStudio R - [A Handbook of Statistical Analyses with R](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB06-DescriptiveStatistics/A%20Handbook%20of%20Statistical%20Analyses%20Using%20R.pdf)  
 * Video Tutorial zu [Deskriptive Statistik in R berechnen und interpretieren](https://youtu.be/2oJxL-ImcOM)  
 
-* **[Example R Script](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/main/LB06-DescriptiveStatistics/R/R-Code_Descriptive-STATISTICS_IRIS_v3.R)** mit Beispielen zur beschreibenden Statistik am [IRIS Blumen Datensatz](https://archive.ics.uci.edu/ml/datasets/iris)  
+* **[Example R Script](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/main/LB06-DescriptiveStatistics/R/R-Code_Descriptive-STATISTICS_IRIS_v3.R)** mit Beispielen zur beschreibender Statistik am [IRIS Blumen Datensatz](https://archive.ics.uci.edu/ml/datasets/iris)  
