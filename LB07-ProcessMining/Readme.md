@@ -1,5 +1,5 @@
 # LB07 - Process Mining README
-###### Last update: 30/3/22 dbe
+###### Last update: 30/3/23 dbe - PM4PY examples added for BINA FS23
 </br>
 
 ![MSc-WI_BINA_LB7_Process Mining](https://user-images.githubusercontent.com/52699611/160862823-016e7439-4c25-4566-a2fe-a68951726883.PNG)
