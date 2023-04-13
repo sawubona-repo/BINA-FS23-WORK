@@ -1,5 +1,5 @@
 ### Descriptive Statistics in Python/Jupyter
-#### last update 23/3/22 dbe
+#### last update 30/3/23 dbe - additional scripts (BMI, Melbourne Housing) for BINA FS23
 
 ![image](https://user-images.githubusercontent.com/52699611/159779822-ae047010-c86b-4d64-873c-1aae9cca0cd9.png)
 
