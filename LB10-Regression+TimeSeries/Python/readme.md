@@ -20,12 +20,6 @@ There is a monthly time series data of the (international) **Air Passengers** of
 
 * See the classical [ARIMA based analysis and forecast](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/b45d7c685c9b1827ba64a0f3b0e7e82aedcec472/LB10-Regression+TimeSeries/Python/Python_TIMESERIES_AirPassengers_v3.ipynb) and a novel approach using the [Darts time series forecasting](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/b45d7c685c9b1827ba64a0f3b0e7e82aedcec472/LB10-Regression+TimeSeries/Python/Python_TIMESERIES_AirPassengers_withDarts.ipynb) library using the famous The [Air Passengers dataset](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/b45d7c685c9b1827ba64a0f3b0e7e82aedcec472/LB10-Regression+TimeSeries/Python/DATA_AirPassengers.csv) of the US airline Pan Am from 1949 to 1960. 
 
-### R/RStudio Examples for Regression + Time Series Analysis and Forecasting
-
-* The analysis and prediction of  the relationship between 'TV advertising' and 'sales' using a simple [Linear Regression model](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/2169897e52586ca9a08a78cf0fb4454b1faed2c5/LB10-Regression+TimeSeries/R/R-CODE_linear-nonlinear_REGRESSION_v2.R))
-
-* The [ARIMA based analysis and forecast](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/2169897e52586ca9a08a78cf0fb4454b1faed2c5/LB10-Regression+TimeSeries/R/R-Code_TIMESERIES_v5.R) for the Air Passengers dataset
-
 --- 
 * see [Kaggle](https://www.kaggle.com/code/manas13/time-series-air-passenger/notebook) for another python notebook on Time Series with Air Passenger Data
 * see [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-to-time-series-analysis/) for indepth discussion and explanation of Time Series analysis
