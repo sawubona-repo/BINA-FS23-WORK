@@ -1,5 +1,5 @@
 # LB10 - Regression + Time Series README
-###### Last update: 12/5/22 dbe
+###### Last update: 14/4/23 dbe - added Tools + Examples description
 </br>
 
 ![Folie4](https://user-images.githubusercontent.com/52699611/168085602-800c1f8a-1771-4bf1-a588-448af5cee539.PNG)
@@ -32,6 +32,9 @@
 
 ## C) Tools and Examples  
 
-* tbd
+Find the following Python Notebooks dealing with *linear regression*, *time series analysis* or *time series forecasting* using appropriate Python libraries   
+
+* The [advertising dataset](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/2c1def124c2d61f211071641d0da9f2a7fc93fde/LB10-Regression+TimeSeries/Python/DATA_Werbung.csv) to analyse the relationship between 'TV advertising' and 'sales' using a simple [linear regression model](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/2c1def124c2d61f211071641d0da9f2a7fc93fde/LB10-Regression+TimeSeries/Python/Python_Linear_REGRESSION_Advertising_v1.ipynb) which predicts sales based on the money spent on different platforms for marketing.
+
 
 
