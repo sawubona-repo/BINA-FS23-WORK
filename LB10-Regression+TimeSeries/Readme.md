@@ -36,5 +36,7 @@ Find the following Python Notebooks dealing with *linear regression*, *time seri
 
 * The [advertising dataset](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/2c1def124c2d61f211071641d0da9f2a7fc93fde/LB10-Regression+TimeSeries/Python/DATA_Werbung.csv) to analyse the relationship between 'TV advertising' and 'sales' using a simple [linear regression model](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/2c1def124c2d61f211071641d0da9f2a7fc93fde/LB10-Regression+TimeSeries/Python/Python_Linear_REGRESSION_Advertising_v1.ipynb) which predicts sales based on the money spent on different platforms for marketing.
 
+* Linear regression helps us establishing a relationship between a dependent variable and an independent variable and fitting a straight line through the data points. But, in real-world data science, linear relationships between data points is a rarity. To overcome this, polynomial regression was introduced. But the main drawback of this was the increased complexity of the algorithm and it became difficult to handle them eventually leading to overfitting of the model. To further eliminate these drawbacks, [spline regression](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/2bcbf38ca89a4dcbb2e98a4ab4b416f6353c77a0/LB10-Regression+TimeSeries/Python/Python_Regression_SPLINES_v2.ipynb) was introduced. 
+
 
 
