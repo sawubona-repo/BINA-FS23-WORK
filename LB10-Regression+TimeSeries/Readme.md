@@ -1,5 +1,5 @@
 # LB10 - Regression + Time Series README
-###### Last update: 12/5/22 dbe
+###### Last update: 14/4/23 dbe - added Tools + Examples description
 </br>
 
 ![Folie4](https://user-images.githubusercontent.com/52699611/168085602-800c1f8a-1771-4bf1-a588-448af5cee539.PNG)
@@ -32,6 +32,15 @@
 
 ## C) Tools and Examples  
 
-* tbd
+Find the following Python Notebooks dealing with *linear regression*, *time series analysis* or *time series forecasting* using appropriate Python libraries   
+
+* The [Advertising dataset](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/2c1def124c2d61f211071641d0da9f2a7fc93fde/LB10-Regression+TimeSeries/Python/DATA_Werbung.csv) to analyse the relationship between 'TV advertising' and 'sales' using a simple [Linear Regression model](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/2c1def124c2d61f211071641d0da9f2a7fc93fde/LB10-Regression+TimeSeries/Python/Python_Linear_REGRESSION_Advertising_v1.ipynb) which predicts sales based on the money spent on different platforms for marketing.
+
+* Linear regression helps us establishing a relationship between a dependent variable and an independent variable and fitting a straight line through the data points. But, in real-world data science, linear relationships between data points is a rarity. To overcome this, polynomial regression was introduced. But the main drawback of this was the increased complexity of the algorithm and it became difficult to handle them eventually leading to overfitting of the model. To further eliminate these drawbacks, [Spline Regression](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/2bcbf38ca89a4dcbb2e98a4ab4b416f6353c77a0/LB10-Regression+TimeSeries/Python/Python_Regression_SPLINES_v2.ipynb) was introduced. 
+
+* Financial analysts often use time-series data to make investment decisions. A **time series** is a set of observations on a variable's outcomes in different time periods: the quarterly sales for a particular company during the past five years, for example, or the daily returns on a traded security. Find the [Time Series Analysis and Visualization of financial data](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/c9dd3d76d2b7f9102c9a86a9b2c4592fb10029ac/LB10-Regression+TimeSeries/Python/Python_TIMESERIES_FinancialData_v2.ipynb) for [Credit Suisse](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/c9dd3d76d2b7f9102c9a86a9b2c4592fb10029ac/LB10-Regression+TimeSeries/Python/DATA-CS.csv) stock market data from 2009-2023
+
+* The [Air Passengers dataset](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/b45d7c685c9b1827ba64a0f3b0e7e82aedcec472/LB10-Regression+TimeSeries/Python/DATA_AirPassengers.csv) gives information of monthly passengers totals of a US airline (Pan Am) from 1949 to 1960. The dataset is widely used in time series analysis and forecsting showcases, using suitable time series models to forecasts the number of passengers for the next 24 months. See the classical [ARIMA based analysis and forecast](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/b45d7c685c9b1827ba64a0f3b0e7e82aedcec472/LB10-Regression+TimeSeries/Python/Python_TIMESERIES_AirPassengers_v3.ipynb) and a novel approach using the [Darts time series forecasting](https://github.com/sawubona-gmbh/BINA-FS23-WORK/blob/b45d7c685c9b1827ba64a0f3b0e7e82aedcec472/LB10-Regression+TimeSeries/Python/Python_TIMESERIES_AirPassengers_withDarts.ipynb) library from [Unit8](https://unit8.com/) a swiss data services company
+
 
 
