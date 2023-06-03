@@ -1,5 +1,5 @@
 ### Associations + Recommender System in Python
-#### last update 15/5/22 dbe
+#### last update 1/6/23 dbe - jupyter notebook added
 
 ![image](https://user-images.githubusercontent.com/52699611/168467427-45bb6780-1983-4e53-9f78-be0b9dc03d99.png)
 
