@@ -1,5 +1,5 @@
 ### Clustering+Classification in Python
-#### last update 26/4/22 dbe
+#### last update 22/5/23 dbe - MNIST and TSLEARN example notebook added
 
 ![image](https://user-images.githubusercontent.com/52699611/167308642-482bb515-6561-497b-836e-5a9cca9cedc9.png)
 

@@ -1,5 +1,5 @@
 # LB08 - Machine Learning README
-###### Last update: 21/4/22 dbe
+###### Last update: 23/5/23 dbe
 </br>
 
 ![Folie4](https://user-images.githubusercontent.com/52699611/164497329-da8d80ab-5d34-486c-953e-dfcb9913aece.PNG)
@@ -34,4 +34,9 @@ There is also a free [Machine Learning Crash Course](https://developers.google.c
 ![data-science](https://user-images.githubusercontent.com/52699611/164678147-63b515a7-0a1f-443a-9caf-af9a0bd867ee.png)
 
 * For [KNIME](https://www.knime.com/), you'll find a lot of well curated video tutorials, e.g. [Behind the Scenes of Machine Learning](https://youtu.be/XtOmoIibsGk). See also the excellent book of Rosaria Silipo, Principal Data Scientist and Head of Evangelism at KNIME AG, [Guide to Intelligent Data Science](https://link.springer.com/book/10.1007/978-3-030-45574-3)
+
+</br> 
+
+## C) Links   
+* [Insane Cheat Sheet Collection](https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html#) A curated list of 100+ machine learning and data science cheatsheet. The InsaneApp team researched for more than a month to find out all the cheat sheets on machine learning, deep learning, data mining, neural networks, big data, artificial intelligence, python, tensorflow, scikit-learn, etc from all over the web.
  
